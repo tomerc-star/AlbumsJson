@@ -1,0 +1,93 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Magical Mystery Tour",
+	"artist":"Beatels",
+       "image": "https://upload.wikimedia.org/wikipedia/he/8/85/TheBeatlesMagicalMysteryTouralbumcover.jpg"
+    },
+{
+      "id": 2,
+      "title": "The Orange Room EP",
+"artist":"Ed Sheeran",
+      "image": "https://i.discogs.com/T-xs544VgEl4BB5toBtHenWomtQX-9biJ3YoWMPMEeM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MTQ3/NzYtMTQ0NTQ2NDgy/MC0zMzc1LnBuZw.jpeg"
+
+    },
+{
+      "id": 3,
+      "title": "Where Are the Thieves?",
+"artist":"Shakira",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/DondeEstanlosLadrones.jpg"
+
+    }
+    ,
+{
+      "id": 4,
+      "title": "Magia",
+"artist":"Maluma",
+      "image": "https://th.bing.com/th/id/R.d8f0ecf76e964b0dbc12179c97ed4607?rik=%2fQ2fE%2fklj9zd%2fQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-rjdzLE8W9XE%2fUZgx0xxTkXI%2fAAAAAAAAMLE%2feNFi4ecz-6k%2fs1600%2f5Magia.jpg&ehk=nZOQepX3RNGb2ScD1K7ff8noTXAR26pxrV10fW4%2fkLU%3d&risl=&pid=ImgRaw&r=0"
+
+    }
+    ,
+{
+      "id": 5,
+      "title": "Justice",
+"artist":"Justin Bieber",
+      "image": "https://upload.wikimedia.org/wikipedia/he/1/1e/Justice_JustinBieber.jpg"
+
+    }
+    ,
+{
+      "id": 6,
+      "title": "30",
+"artist":"Adele",
+      "image": "https://i.pinimg.com/736x/42/97/35/4297359f1423e12b36e8922260b4ee48.jpg"
+
+    },
+    {
+          "id": 7,
+          "title": "American Life",
+"artist":"Madonna",
+          "image": "https://www.stretta-music.com/media/images/920/349920_detail-00.jpg"
+
+        }
+        ,
+{
+      "id": 8,
+      "title": "Green Light: Freemasons EP",
+"artist":"Beyonce",
+      "image": "https://i1.sndcdn.com/artworks-4611509a-92a9-4464-9992-90bf7cba31ed-0-t500x500.jpg"
+
+    },
+{
+      "id": 9,
+      "title": "Today",
+"artist":"Elvis Presley",
+      "image": "https://cdn11.bigcommerce.com/s-iq6934aszs/images/stencil/1280x1280/products/1651/5788/1195__37580.1613294876.png?c=1"
+
+    }
+,
+{
+      "id": 10,
+      "title": "My Everything",
+"artist":"Ariana Grande",
+      "image": "https://yosmusic.com/wp-content/uploads/2014/09/ariana-grande-everything-b.jpg"
+
+    }
+,
+{
+      "id": 11,
+      "title": "Folklore",
+"artist":"Taylor Swift",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61VcU5m4QbL._AC_.jpg"
+
+    }
+,
+{
+      "id": 12,
+      "title": "Escape",
+"artist":"Enrique Iglesias",
+      "image": "https://i.discogs.com/5wp36syQKMwHG2-BYkUrbmN-JDSsic97R0r3-FHjXtQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQz/OTEtMTUwNDE0MTQ0/MS0zMzc4LmpwZWc.jpeg"
+    }
+  ]
+}
